@@ -12,7 +12,7 @@ require (
 	github.com/cloudflare/cloudflare-go v0.14.0
 	github.com/davecgh/go-spew v1.1.1
 	github.com/deckarep/golang-set v0.0.0-20180603214616-504e848d77ea
-	github.com/docker/docker v20.10.10+incompatible
+	github.com/docker/docker v26.1.5+incompatible
 	github.com/edsrzf/mmap-go v1.0.0
 	github.com/elastic/gosigar v0.8.1-0.20180330100440-37f05ff46ffa
 	github.com/ethereum/go-ethereum v1.10.12
